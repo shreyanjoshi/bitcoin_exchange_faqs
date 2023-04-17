@@ -23,10 +23,10 @@
 ## Why should I care about Bitcoin?/ Why was Bitcoin invented?
     Bitcoin is sound money. It was created in the backdrop of the Global Financial Crisis of 2008 and in response to the
     inflationary monetary policies by the government and central banks, and the systemic risks of all Fiat/centralized
-    currencies which are currently all national currencies in the world. Bitcoin is mathematically guaranteed to have 
-    absolute scarcity - 21 million - and offers several benefits such as financial freedom, privacy, and the ability to send
-    and receive money globally without counterparty risk, ie, the need for a third party. It has all the properties required
-    to be Money and is growing in its acceptance every year. It also serves as a hedge against inflation and a store of value
+    currencies which are currently all national currencies in the world. Bitcoin is mathematically guaranteed to have absolute
+    scarcity- 21 million- and offers several benefits such as financial freedom, privacy, and the ability to send and receive
+    money globally without counterparty risk, ie, the need for a third party. It has all the properties required to be Money 
+    and is growing in its acceptance every year. It also serves as a hedge against inflation and a store of value
     in times of economic uncertainty.
 
 ## Is Bitcoin useful for me?
