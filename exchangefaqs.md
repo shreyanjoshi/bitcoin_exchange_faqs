@@ -35,15 +35,15 @@
     It's important to research and understand the risks and benefits before using Bitcoin for your specific needs.
 
 ## Can Bitcoin get hacked?
-    Bitcoin itself, the network, cannot been hacked because it has no central point of failure. Bitcoin is a peer-to-peer
-    flat network with no hierarchy between full nodes, and all transactions are publicly verifiable and the validating
-    software is free and open-source. A brute-force attack to invalidate valid Bitcoin blocks requires 51% of computation
-    power, which is extremely difficult to obtain and such an attack cannot be sustained since the news of the attack will
-    allow the rest of the network to respond with more computation. Every Bitcoin node validates each transaction which is 
-    public data. It uses game theory and strong cryptographic protocols to defend against brute-force attacks. The exchanges
-    or wallets used to store and manage Bitcoin private keys necessary to spend the specific Bitcoin can be vulnerable to 
-    hacks if not properly secured. It's crucial to use reputable wallets with strong security measures for securing your 
-    private keys to minimize the risk of hacking.
+    Bitcoin itself, the network, cannot be hacked because it has no central point of failure. Bitcoin is a peer-to-peer
+    flat network with no hierarchy between full nodes, with all transactions publicly verifiable and the validating software 
+    free and open-source. It uses game theory and strong cryptographic protocols to defend against brute-force attacks. 
+    A brute-force attack to invalidate valid Bitcoin blocks requires 51% of the computation power of the network, which is
+    extremely difficult to obtain, and such an attack cannot be sustained for long before the news of the attack will allow
+    the rest of the network to respond with more computation. The exchanges or wallets used to store and manage Bitcoin
+    private keys necessary to spend the specific Bitcoin, on the other hand, is vulnerable to hacks if not properly secured.
+    It's crucial to use reputable wallets with strong security measures for securing your private keys to minimize the risk
+    of hacking.
 
 ## Is Bitcoin illegal?
     Laws regarding Bitcoin's use varies from country to country. Bitcoin is NOT illegal in most countries, although there are
