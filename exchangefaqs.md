@@ -138,17 +138,17 @@
     privacy, verifiability and control over their funds compared to custodial exchanges.
 
 ## What is a Non-KYC Exchange?
-    A Non-KYC (Know Your Customer) exchange is a type of exchange that allows users to buy Bitcoin without requiring them 
-    to complete the KYC process which is a regulatory requirement that mandates exchanges to verify the identities of their 
+    A Non-KYC (Know Your Customer) exchange is a type of exchange that allows users to buy Bitcoin without requiring them to
+    complete the KYC process which is a regulatory requirement that mandates exchanges to verify the identities of their 
     customers to prevent illegal activities, money laundering and fraud. Non-KYC exchanges do not require users to provide
     personal information, such as identification documents, offering more privacy. 
 
 ## Why Bitcoin-only?
     Bitcoin-only is the philosophy of realising Bitcoin's value. It is based on understanding that Bitcoin is the only 
-    cryptocurrency with absolute scarcity, verifiability, and decentralisation. Bitcoin has unique characteristics that 
-    makes it sound money, outside of the control of any government, corporations, or group of individuals. It uses 
-    Proof-of-Work algorithm as its primary security feature to arrive at consensus and create an immutable ledger of secure
-    transactions. Since Bitcoin's inceptions, there have been many charlatans coming up with competing altcoins in attempts
+    cryptocurrency with absolute scarcity, verifiability, and decentralisation. Bitcoin has unique characteristics that makes
+    it sound money, outside of the control of any government, corporations, or group of individuals. It uses Proof-of-Work
+    algorithm as its primary security feature to arrive at consensus and create an immutable ledger of secure transactions.
+    Since Bitcoin's inceptions, there have been many charlatans coming up with competing altcoins in attempts
     to cheat the investors. 
 
 ## Is the Non-Custodial Exchange responsible for the security of my Bitcoin?
