@@ -90,11 +90,11 @@
 # Security and Self-Custody
 
 ## How do I secure my Bitcoin?
-    Securing your Bitcoin involves getting it off exchanges, self-custody of your funds, using a reputable wallet, backing
-    up your private keys in an offline and secure location, regularly updating your software and devices with the latest 
-    security patches, and being cautious about entering the correct address when spending it. Security is not a black and
-    white thing and it will differ according to an individual's technical proficiency, amount of funds, backup methods etc.
-    It is advised to practice security one step at a time, gaining proficiency and following the process judiciously. 
+    Securing your Bitcoin involves getting it off exchanges, self-custody of your funds, using a reputable wallet, backing up
+    your private keys in an offline and secure location, regularly updating your software and devices with the latest security
+    patches, and being cautious about entering the correct address when spending it. Security is not a black and white thing 
+    and it will differ according to an individual's technical proficiency, amount of funds, backup methods etc. It is advised
+    to practice security one step at a time, gaining proficiency and following the process judiciously. 
 
 ## What is Self-Custody?
     Self-custody is the practice of securing and holding your own Bitcoin without reying on a third-party intermediary, 
