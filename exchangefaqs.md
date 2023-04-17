@@ -124,11 +124,11 @@
     permissionl-ess access to your funds, protecting your privacy and financial sovereignty.
 
 ## Which wallet should I use?
-    While there are many standard wallets available as options, every wallet comes with its own set of pros and cons, trade-offs,
-    ease-of-use, security etc. It is critical that the user chooses one among the standard wallets, ie, wallets that are 
-    open-source, reputable and battle-field tested for security. There are two types of wallets - Hot Wallets, which store your
-    keys on a device which can connect to the internet(mobile and desktop) and Cold Wallets, which store your keys on a device
-    which never connects to the internet, ie, air-gapped. Some secure wallets with good reputation are - 
+    While there are many standard wallets available as options, every wallet comes with its own set of pros and cons, 
+    trade-offs, ease-of-use, security etc. It is critical that the user chooses one among the standard wallets, ie, wallets
+    that are open-source, reputable and battle-field tested for security. There are two types of wallets - Hot Wallets, which
+    store your keys on a device which can connect to the internet(mobile and desktop) and Cold Wallets, which store your keys
+    on a device which never connects to the internet, ie, air-gapped. Some secure wallets with good reputation are - 
     Blue Wallet, Wasabi, ColdCard. 
 
 ## What is a Non-Custodial Exchange?
