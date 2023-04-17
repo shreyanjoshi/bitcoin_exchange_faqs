@@ -7,14 +7,17 @@
     and at no point do we custody your Bitcoin. Completely Non-Custodial, No Sign-up required. 
 
 ## What is Bitcoin anyway?
-    Bitcoin is a digital currency that operates on a globally decentralised network, allowing for peer-to-peer transactions without the need for intermediaries like banks.
-    It's often referred to as "digital gold" and uses Proof-of-Work algorithm to create an immutable ledger called the Bitcoin blockchain, which securely records all transactions. 
+    Bitcoin is a digital currency that operates on a globally decentralised network, allowing for peer-to-peer transactions
+    without the need for intermediaries like banks. It's often referred to as "digital gold" and uses Proof-of-Work algorithm
+    to create an immutable ledger called the Bitcoin blockchain, which securely records all transactions. 
 
 ## What gives Bitcoin value?
-    Bitcoin's value comes from a combination of factors. One of the main factors is its scarcity, as there will only ever be 21 million Bitcoins in existence.
-    Additionally, Bitcoin's decentralized nature, meaning it is not controlled by any central bank, government, or corporation, gives it value as it is not subject to traditional monetary policies.
-    Bitcoin also has utility as a censorship-resistant form of money and method of payments allowing for peer-to-peer transactions and cross-border transfers. 
-    Furthermore, increasing adoption by individuals, businesses, and institutions as a form of investment and payment method also contributes to its value.
+    Bitcoin's value comes from a combination of factors. One of the main factors is its scarcity, as there will only ever be
+    21 million Bitcoins in existence. Additionally, Bitcoin's decentralized nature, meaning it is not controlled by any
+    central bank, government, or corporation, gives it value as it is not subject to traditional monetary policies. 
+    Bitcoin also has utility as a censorship-resistant form of money and method of payments allowing for peer-to-peer transactions
+    and cross-border transfers. Increasing adoption every year by individuals, businesses, and institutions as a form of investment
+    and payment method is driving to its value.
 
 ## Why should I care about Bitcoin?
     Bitcoin is sound money. It was created in the backdrop of the Global Financial Crisis of 2008 and in response to the systemic risks of Fiat/centralized currencies which are currently all national currencies in the world.
