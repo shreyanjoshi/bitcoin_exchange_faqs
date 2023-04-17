@@ -1,29 +1,32 @@
 # General FAQs
 
 ## What is KamaBitcoin?
-    KamaBitcoin is where we help you onboard to the Bitcoin Standard without you having to give away your sovereignty and privacy.
-    We are a Non-KYC exchange that accepts every shitcoin from our users to allow them to buy and use the only sound money
-    available to humanity - Bitcoin. We do not collect any user data and personally identifiable information, 
-    and at no point do we custody your Bitcoin. Completely Non-Custodial, No Sign-up required. 
+    KamaBitcoin is where we help you onboard to the Bitcoin Standard without you having to give away your sovereignty and
+    privacy. We are a Non-KYC and Non-Custodial exchange that accepts every shitcoin from our users to allow them to buy and
+    use the only sound money available to humanity - Bitcoin. We do not collect any user data and personally identifiable
+    information, and at no point do we custody your Bitcoin. Completely Non-Custodial, No Sign-up required. 
 
 ## What is Bitcoin anyway?
     Bitcoin is a digital currency that operates on a globally decentralised network, allowing for peer-to-peer transactions
-    without the need for intermediaries like banks. It's often referred to as "digital gold" and uses Proof-of-Work algorithm
-    to create an immutable ledger called the Bitcoin blockchain, which securely records all transactions. 
+    without the need for intermediaries like banks. It creates absolute scarcity - 21 million Bitcoins only - and is often 
+    referred to as "digital gold". It uses Proof-of-Work algorithm to create an immutable ledger called the Bitcoin blockchain,
+    which securely records all transactions in the world. 
 
 ## What gives Bitcoin value?
     Bitcoin's value comes from a combination of factors. One of the main factors is its scarcity, as there will only ever be
     21 million Bitcoins in existence. Additionally, Bitcoin's decentralized nature, meaning it is not controlled by any
     central bank, government, or corporation, gives it value as it is not subject to traditional monetary policies. 
-    Bitcoin also has utility as a censorship-resistant form of money and method of payments allowing for peer-to-peer transactions
-    and cross-border transfers. Increasing adoption every year by individuals, businesses, and institutions as a form of investment
-    and payment method is driving to its value.
+    Bitcoin also has utility as a censorship-resistant form of money and method of payments allowing for peer-to-peer
+    transactions and cross-border transfers. Increasing adoption every year by individuals, businesses, and institutions as
+    a form of investment and payment method is driving to its value.
 
 ## Why should I care about Bitcoin?
-    Bitcoin is sound money. It was created in the backdrop of the Global Financial Crisis of 2008 and in response to the systemic risks of Fiat/centralized currencies which are currently all national currencies in the world.
-    Bitcoin is mathematically guaranteed to have absolute scarcity - 21 million - and offers several benefits such as financial freedom, privacy, and the ability to send and receive money globally without counterparty risk, ie, the need for a third party.
-    It has all the properties required to be Money and is growing in its acceptance every year.
-    It also serves as a hedge against inflation and a store of value in times of economic uncertainty.
+    Bitcoin is sound money. It was created in the backdrop of the Global Financial Crisis of 2008 and in response to the systemic
+    risks of Fiat/centralized currencies which are currently all national currencies in the world. Bitcoin is mathematically 
+    guaranteed to have absolute scarcity - 21 million - and offers several benefits such as financial freedom, privacy, and the
+    ability to send and receive money globally without counterparty risk, ie, the need for a third party. It has all the properties
+    required to be Money and is growing in its acceptance every year. It also serves as a hedge against inflation and a store of value
+    in times of economic uncertainty.
 
 ## Is Bitcoin useful for me?
     Bitcoin can be useful for a variety of purposes. If you are interested in financial privacy, permission-less global payments, investing in a new growing asset class, or participating in a decentralized form of money, Bitcoin is for you. 
