@@ -1,7 +1,7 @@
 # General FAQs
 
 ## What is KamaBitcoin?
-    Bitcoin Lifeboats is where we help you onboard to the Bitcoin Standard without you having to give away your sovereignty and privacy.
+    KamaBitcoin is where we help you onboard to the Bitcoin Standard without you having to give away your sovereignty and privacy.
     We are a Non-KYC exchange that accepts every shitcoin from our users to allow them to use the only sound money available to humanity - Bitcoin. 
     We do not collect any user data and personally identifiable information, and at no point do we custody your Bitcoin. Completely Non-Custodial, No Sign-up required. 
 
