@@ -29,14 +29,17 @@
     as a hedge against inflation and a store of value in times of economic uncertainty.
 
 ## Is Bitcoin useful for me?
-    Bitcoin can be useful for a variety of purposes. If you are interested in financial privacy, permission-less global payments, investing in a new growing asset class, or participating in a decentralized form of money, Bitcoin is for you. 
-    t's important to research and understand the risks and benefits before using Bitcoin for your specific needs.
+    Bitcoin can be useful for a variety of purposes. If you are interested in financial privacy, permission-less global
+    payments, investing in a new growing asset class, or participating in a decentralized form of money, Bitcoin is for you. 
+    It's important to research and understand the risks and benefits before using Bitcoin for your specific needs.
 
 ## Can Bitcoin get hacked?
-    Bitcoin itself, the network, cannot been hacked, as all transactions are publicly verifiable and the validating software is free and open-source. 
-    Every Bitcoin node validates each transaction which is public data. It uses game theory and strong cryptographic protocols to defend against brute-force attacks. 
-    The exchanges or wallets used to store and manage Bitcoin private keys necessary to spend the specific Bitcoin can be vulnerable to hacks if not properly secured. 
-    It's crucial to use reputable wallets with strong security measures for securing your private keys to minimize the risk of hacking.
+    Bitcoin itself, the network, cannot been hacked, as all transactions are publicly verifiable and the validating software
+    is free and open-source. Every Bitcoin node validates each transaction which is public data. It uses game theory and
+    strong cryptographic protocols to defend against brute-force attacks. The exchanges or wallets used to store and manage
+    Bitcoin private keys necessary to spend the specific Bitcoin can be vulnerable to hacks if not properly secured. 
+    It's crucial to use reputable wallets with strong security measures for securing your private keys to minimize the risk
+    of hacking.
 
 ## Is Bitcoin illegal?
     Laws regarding Bitcoin's use varies from country to country.
