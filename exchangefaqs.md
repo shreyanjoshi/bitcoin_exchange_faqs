@@ -42,28 +42,33 @@
     of hacking.
 
 ## Is Bitcoin illegal?
-    Laws regarding Bitcoin's use varies from country to country.
-    Bitcoin is NOT illegal in most countries, although there are restrictions or regulations surrounding its use like identification, tax obligations. 
+    Laws regarding Bitcoin's use varies from country to country. Bitcoin is NOT illegal in most countries, although there are
+    restrictions or regulations surrounding its use like user identification(KYC), tax liability, anti-money laundering
+    licensing for exchanges and businesses.
 
 ## Can the government ban Bitcoin?
-    Governments have the ability to regulate or restrict the use of Bitcoin within their jurisdictions, but outright banning Bitcoin is challenging due to its decentralized nature. 
-    Some countries have implemented regulations that govern the use of Bitcoin, such as licensing requirements for exchanges or anti-money laundering (AML) regulations. 
-    However, banning Bitcoin entirely would be difficult since it is a global digital currency that operates on a decentralized network.
+    Governments have the ability to regulate or restrict the use of Bitcoin within their jurisdictions, but outright banning 
+    Bitcoin is challenging due to its decentralized nature and use of privacy-preserving tools and services.
+    Some countries have implemented regulations that govern the use of Bitcoin, such as licensing requirements for exchanges
+    or anti-money laundering (AML) regulations. However, banning Bitcoin entirely is difficult since it is a global digital
+    currency that operates on a decentralized network.
 
 ## How is the price of Bitcoin calculated?
-    The price of Bitcoin is determined by supply and demand in the markets where people buy and sell Bitcoin.
-    It is typically calculated by the average price at which Bitcoin is being bought and sold across various exchanges around the world.
+    The price of Bitcoin is determined by supply and demand in the markets where people buy and sell Bitcoin. It is typically
+    calculated by the average price at which Bitcoin is being bought and sold across various exchanges around the world.
 
 ## What determines the price of Bitcoin? Why is it volatile?
-    The price of Bitcoin is determined by supply and demand dynamics in the market.
-    Factors such as trading volume, market demand, adoption, and macroeconomic factors can influence the price of Bitcoin.
-    Bitcoin's price can be highly volatile due to various factors, including investor sentiment, regulatory developments, and political events.
-    Its relatively small market size compared to traditional financial markets also contributes to price volatility.
-    Statistically, the magnitude of volatility is decreasing with each subsequent year thanks to growing adoption.
+    Since the price of Bitcoin is determined by supply and demand dynamics in the market, factors such as trading volume, 
+    market demand, adoption, and macroeconomic factors can influence the price of Bitcoin. Bitcoin's price can be highly 
+    volatile due to various factors, including investor sentiment, changes in regulations, and political events. Its relatively
+    small market size compared to traditional financial markets also contributes to price volatility. Statistically, the
+    magnitude of volatility is decreasing with each subsequent year thanks to growing adoption.
 
 ## I have heard that Bitcoin is not good for the environment?
-    Bitcoin mining, the process of verifying transactions on the network, does require significant computational power and energy consumption. 
-    However, in the last few years due to ongoing efforts to make Bitcoin mining more sustainable, such as the use of renewable energy sources and more energy-efficient mining technologies have made the majority of its operations sustainable.
+    Bitcoin mining, the process of verifying transactions on the network, does require significant computational power and
+    energy consumption. However, in the last few years due to ongoing efforts to make Bitcoin mining more sustainable, such
+    as the use of renewable energy sources and more energy-efficient mining technologies have made the majority of its
+    operations sustainable.
 
 ## Is Bitcoin private?
     Bitcoin transactions are pseudonymous, meaning they are recorded on the blockchain with a unique Bitcoin address, but the identity of the owner is not revealed.
