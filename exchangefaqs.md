@@ -97,8 +97,8 @@
     to practice security one step at a time, gaining proficiency and following the process judiciously. 
 
 ## What is Self-Custody?
-    Self-custody is the practice of securing and holding your own Bitcoin without reying on a third-party intermediary, 
-    such as a bank or exchange, to store or control your Bitcoin. With self-custody, you have full control over your Bitcoin
+    Self-custody is the practice of securing and holding your own Bitcoin without reying on a third-party intermediary, such 
+    as a bank or exchange, to store or control your Bitcoin. With self-custody, you have full control over your Bitcoin 
     private keys using your Seed Phrase, which is the unique sequence of words(12/24) that allows you to access and transfer
     your Bitcoin. Self-custody is at the core of invention of Bitcoin, as it empowers the individual to have ownership and
     control over their money, without the need for intermediaries.
@@ -124,11 +124,11 @@
     permissionl-ess access to your funds, protecting your privacy and financial sovereignty.
 
 ## Which wallet should I use?
-    While there are many standard wallets available as options, every wallet comes with its own set of pros and cons, 
-    trade-offs, ease-of-use, security etc. It is critical that the user chooses one among the standard wallets, ie, wallets 
-    that are open-source, reputable and battle-field tested for security. There are two types of wallets - Hot Wallets, which
-    store your keys on a device which can connect to the internet(mobile and desktop) and Cold Wallets, which store your keys
-    on a device which never connects to the internet, ie, air-gapped. Some secure wallets with good reputation are - 
+    While there are many standard wallets available as options, every wallet comes with its own set of pros and cons, trade-offs,
+    ease-of-use, security etc. It is critical that the user chooses one among the standard wallets, ie, wallets that are 
+    open-source, reputable and battle-field tested for security. There are two types of wallets - Hot Wallets, which store your
+    keys on a device which can connect to the internet(mobile and desktop) and Cold Wallets, which store your keys on a device
+    which never connects to the internet, ie, air-gapped. Some secure wallets with good reputation are - 
     Blue Wallet, Wasabi, ColdCard. 
 
 ## What is a Non-Custodial Exchange?
