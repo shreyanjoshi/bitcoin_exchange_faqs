@@ -1,9 +1,9 @@
 # General FAQs
 
-## What is Bitcoin Lifeboats?
+## What is KamaBitcoin?
     Bitcoin Lifeboats is where we help you onboard to the Bitcoin Standard without you having to give away your sovereignty and privacy.
-    We are a Non-KYC exchange that accepts every shitcoin from our users to allow them to use the only money available to humanity - Bitcoin. 
-    We do not collect any user data and personally identifiable information, and at no point we do we custody your Bitcoin. Completely Non-Custodial, No Sign-up required. 
+    We are a Non-KYC exchange that accepts every shitcoin from our users to allow them to use the only sound money available to humanity - Bitcoin. 
+    We do not collect any user data and personally identifiable information, and at no point do we custody your Bitcoin. Completely Non-Custodial, No Sign-up required. 
 
 ## What is Bitcoin anyway?
     Bitcoin is a digital currency that operates on a globally decentralised network, allowing for peer-to-peer transactions without the need for intermediaries like banks.
@@ -12,7 +12,7 @@
 ## What gives Bitcoin value?
     Bitcoin's value comes from a combination of factors. One of the main factors is its scarcity, as there will only ever be 21 million Bitcoins in existence.
     Additionally, Bitcoin's decentralized nature, meaning it is not controlled by any central bank, government, or corporation, gives it value as it is not subject to traditional monetary policies.
-    Bitcoin also has utility as a censorship-resistant form of money, and method of payments allowing for peer-to-peer transactions and cross-border payments. 
+    Bitcoin also has utility as a censorship-resistant form of money and method of payments allowing for peer-to-peer transactions and cross-border transfers. 
     Furthermore, increasing adoption by individuals, businesses, and institutions as a form of investment and payment method also contributes to its value.
 
 ## Why should I care about Bitcoin?
@@ -26,7 +26,7 @@
     t's important to research and understand the risks and benefits before using Bitcoin for your specific needs.
 
 ## Can Bitcoin get hacked?
-    Bitcoin itself, the network, cannot been hacked, as all transactions and validating software is free and open-source. 
+    Bitcoin itself, the network, cannot been hacked, as all transactions are publicly verifiable and the validating software is free and open-source. 
     Every Bitcoin node validates each transaction which is public data. It uses game theory and strong cryptographic protocols to defend against brute-force attacks. 
     The exchanges or wallets used to store and manage Bitcoin private keys necessary to spend the specific Bitcoin can be vulnerable to hacks if not properly secured. 
     It's crucial to use reputable wallets with strong security measures for securing your private keys to minimize the risk of hacking.
