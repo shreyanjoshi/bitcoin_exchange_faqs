@@ -9,7 +9,7 @@
 ## What is Bitcoin anyway?
     Bitcoin is a digital currency that operates on a globally decentralised network, allowing for peer-to-peer transactions
     without the need for intermediaries like banks. It creates absolute scarcity - 21 million Bitcoins only - and is often 
-    referred to as "digital gold". It uses Proof-of-Work algorithm to create an immutable ledger called the Bitcoin blockchain,
+    referred to as "digital gold". It uses Proof-of-Work algorithm to create an immutable ledger called the Bitcoin blockchain
     which securely records all transactions in the world. 
 
 ## What gives Bitcoin value?
