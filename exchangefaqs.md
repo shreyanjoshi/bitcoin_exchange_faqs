@@ -68,8 +68,7 @@
 ## I have heard that Bitcoin is not good for the environment?
     Bitcoin mining, the process of verifying transactions on the network, does require significant computational power and
     energy consumption. However, in the last few years due to ongoing efforts to make Bitcoin mining more sustainable, such as
-    the use of renewable energy sources and more energy-efficient mining technologies have made the majority of its operations
-    sustainable.
+    the use of renewable energy source have made the majority of its operations sustainable.
 
 ## Is Bitcoin private?
     Bitcoin transactions are pseudonymous, meaning they are recorded on the blockchain with a unique Bitcoin address, with no
