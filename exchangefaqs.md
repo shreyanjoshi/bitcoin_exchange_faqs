@@ -71,14 +71,15 @@
     operations sustainable.
 
 ## Is Bitcoin private?
-    Bitcoin transactions are pseudonymous, meaning they are recorded on the blockchain with a unique Bitcoin address, but the identity of the owner is not revealed.
-    However, transactions can be traced back to a user's identity through additional information or metadata if bought and sold using KYC ramps.
-    It's important to take appropriate measures to protect your privacy when using Bitcoin.
+    Bitcoin transactions are pseudonymous, meaning they are recorded on the blockchain with a unique Bitcoin address, with no
+    correlation with the identity of the owner. However, transactions can be traced back to a user's identity through 
+    additional information or metadata if bought and sold using KYC ramps. It's important to take appropriate measures to 
+    protect your privacy when using Bitcoin.
 
 ## Is Bitcoin accepted anywhere?
-    While Bitcoin is not yet accepted everywhere, its acceptance as a form of payment is growing.
-    Many online and offline merchants, including major companies, now accept Bitcoin as a payment option.
-    Acceptance varies depending on the region or country.
+    While Bitcoin is not yet accepted everywhere, its acceptance as a form of payment is growing. Many online and offline 
+    merchants, including major companies, now accept Bitcoin as a payment option. Acceptance varies depending on the
+    region or country.
 
 ## What is the best way to acquire Bitcoin?
     There are several ways to acquire Bitcoin. You can buy it from a reputable exchange using fiat currency (the national currency of the jurisdiction in which the exchange is operational),
