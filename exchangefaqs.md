@@ -111,39 +111,48 @@
 
 ## What is a passphrase?
     A Passphrase is an optional word or phrase attached to your Seed phrase as an additional source of entropy and security.
-    Passphrases are also useful to create multiple wallets to hold different amounts of funds. 
-    For example, someone might have some of their funds on a wallet secured by their seed, and have other amounts on wallets
-    secured by the seed + passphrases like 'Life-Savings', 'Recreation', 'Decoy', 'Emergency funds' etc. 
+    Passphrases help you recover your funds in case the security of your seed is compromised. Passphrases are also useful to
+    create multiple wallets to hold different amounts of funds. For example, someone might have some of their funds on a 
+    wallet secured by their seed, and have other amounts on wallets secured by the seed + passphrases like 'Life-Savings',
+    'Recreation', 'Decoy', 'Emergency funds' etc. 
 
 ## Why should I Self-Custody Bitcoin?
     Self-custody of Bitcoin provides you with greater control and ownership of your funds. By holding and managing your own
     Bitcoin private keys, you eliminate the need to rely on third-party intermediaries, such as exchanges or wallets, which
-    are vulnerable to security breaches, hacks, fractional reserves, restricted access, censoring transactions, seizing funds etc. 
-    Self-custody allows you to be the sole custodian of your Bitcoin, ensuring that you have full control and permissionl-ess
-    access to your funds, while protecting your privacy and financial sovereignty.
+    are vulnerable to security breaches, hacks, fractional reserves, restricted access, censoring transactions, seizing funds
+    etc. Self-custody allows you to be the sole custodian of your Bitcoin, ensuring that you have full control and
+    permissionl-ess access to your funds, protecting your privacy and financial sovereignty.
 
 ## Which wallet should I use?
-    While there are many standard wallets available as options, every wallet comes with its own set of pros and cons, trade-offs, ease-of-use, security etc.
-    It is critical that the user chooses one among the standard wallets, ie, wallets that are open-source, audited and battle-field tested for security, and have a reputation.
-    There are two types of wallets - Hot Wallets, which store your keys on a device which can connect to the internet(mobile and desktop) and Cold Wallets, which store your keys on a device which never connects to the internet, ie, air-gapped.
-    Some secure wallets with good reputation are - Blue Wallet, Wasabi, ColdCard. 
+    While there are many standard wallets available as options, every wallet comes with its own set of pros and cons, 
+    trade-offs, ease-of-use, security etc. It is critical that the user chooses one among the standard wallets, ie, wallets 
+    that are open-source, reputable and battle-field tested for security. There are two types of wallets - Hot Wallets, which
+    store your keys on a device which can connect to the internet(mobile and desktop) and Cold Wallets, which store your keys
+    on a device which never connects to the internet, ie, air-gapped. Some secure wallets with good reputation are - 
+    Blue Wallet, Wasabi, ColdCard. 
 
 ## What is a Non-Custodial Exchange?
-    A non-custodial exchange is a type of Bitcoin exchange that allows users to buy Bitcoin, without the need to trust a third-party with their funds.
-    In a non-custodial exchange, users retain control of their private keys and have sole ownership of their Bitcoin purchased using the service. 
-    Non-custodial exchanges provide users with increased security, privacy, verifiability and control over their funds compared to custodial exchanges.
+    A non-custodial exchange is a type of Bitcoin exchange that allows users to buy Bitcoin, without the need to trust a 
+    third-party with their funds. In a non-custodial exchange, users retain control of their private keys and have sole 
+    ownership of their Bitcoin purchased using the service. Non-custodial exchanges provide users with increased security,
+    privacy, verifiability and control over their funds compared to custodial exchanges.
 
 ## What is a Non-KYC Exchange?
-    A Non-KYC (Know Your Customer) exchange is a type of exchange that allows users to buy Bitcoin without requiring them to complete the KYC process which is a regulatory requirement that mandates exchanges to verify the identities of their customers to prevent illegal activities, money laundering and fraud.
-    Non-KYC exchanges do not require users to provide personal information, such as identification documents, offering more privacy. 
+    A Non-KYC (Know Your Customer) exchange is a type of exchange that allows users to buy Bitcoin without requiring them 
+    to complete the KYC process which is a regulatory requirement that mandates exchanges to verify the identities of their 
+    customers to prevent illegal activities, money laundering and fraud. Non-KYC exchanges do not require users to provide
+    personal information, such as identification documents, offering more privacy. 
 
 ## Why Bitcoin-only?
-    Bitcoin-only is the philosophy of realising Bitcoin's value. It is based on understanding that Bitcoin is the only cryptocurrency with absolute scarcity, verifiability, and decentralisation.
-    Bitcoin has unique characteristics that makes it sound money, outside of the control of any government, corporations, or group of individuals. 
-    It uses Proof-of-Work algorithm as its primary security feature to arrive at consensus and create an immutable ledger of secure transactions.
-    Since Bitcoin's inceptions, there have been many charlatans coming up with competing altcoins in attempts to cheat the investors. 
+    Bitcoin-only is the philosophy of realising Bitcoin's value. It is based on understanding that Bitcoin is the only 
+    cryptocurrency with absolute scarcity, verifiability, and decentralisation. Bitcoin has unique characteristics that 
+    makes it sound money, outside of the control of any government, corporations, or group of individuals. It uses 
+    Proof-of-Work algorithm as its primary security feature to arrive at consensus and create an immutable ledger of secure
+    transactions. Since Bitcoin's inceptions, there have been many charlatans coming up with competing altcoins in attempts
+    to cheat the investors. 
 
 ## Is the Non-Custodial Exchange responsible for the security of my Bitcoin?
-    As a user of a non-custodial exchange, you are responsible for the security of your Bitcoin.
-    Non-custodial exchanges provide users with greater control over their funds, as users retain ownership of their private keys and have the ability to directly manage their own wallets and make transactions without permission. 
-    However, this also means that the responsibility for securing your private keys and protecting your Bitcoin falls solely on the user.
+    As a user of a non-custodial exchange, you are responsible for the security of your Bitcoin. Non-custodial exchanges 
+    provide users with greater control over their funds, as users retain ownership of their private keys and have the ability
+    to directly manage their own wallets and make transactions without permission. However, this also means that the 
+    responsibility for securing your private keys and protecting your Bitcoin falls solely on the user.
