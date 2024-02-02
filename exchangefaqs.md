@@ -1,24 +1,17 @@
 # General FAQs
 
-## What is KamaBitcoin?
-    KamaBitcoin is where we help you onboard to the Bitcoin Standard without you having to give away your sovereignty and
-    privacy. We are a Non-KYC and Non-Custodial exchange that accepts every shitcoin from our users to allow them to buy and
-    use the only sound money available to humanity - Bitcoin. We do not collect any user data and personally identifiable
-    information, and at no point do we custody your Bitcoin. Completely Non-Custodial, No Sign-up required. 
+## What is Getbit?
+    Getbit is a platform and service to Buy Bitcoin, Self-Custody your funds, Learn about Bitcoin, and measure the profits and losses made on your purchase. 
 
-## What is Bitcoin anyway?
+## What is Bitcoin?
     Bitcoin is a digital currency that operates on a globally decentralised network, allowing for peer-to-peer transactions
-    without the need for intermediaries like banks. It creates absolute scarcity - 21 million Bitcoins only - and is often 
-    referred to as "digital gold". It uses Proof-of-Work algorithm to create an immutable ledger called the Bitcoin blockchain
-    which securely records all transactions in the world. 
+    without the need for intermediaries like banks and financial institutions. It is absolutely scarce - there are only 21 million Bitcoins and     it is often referred to as "Digital Gold". It uses Proof-of-Work algorithm to create an incorruptible, immutable ledger called the Bitcoin      blockchain which securely records all Bitcoin transactions in the world. 
 
 ## What gives Bitcoin value?
-    Bitcoin's value comes from a combination of factors. One of the main factors is its scarcity, as there will only ever be
+    Bitcoin's value comes from a combination of factors. The biggest reason is its Scarcity, as there will only ever be
     21 million Bitcoins in existence. Additionally, Bitcoin's decentralized nature, meaning it is not controlled by any
-    central bank, government, or corporation, gives it value as it is not subject to traditional monetary policies. 
-    Bitcoin also has utility as a censorship-resistant form of money and method of payments allowing for peer-to-peer
-    transactions and cross-border transfers. Increasing adoption every year by individuals, businesses, and institutions as
-    a form of investment and payment method is driving to its value.
+    central bank, government, or corporation, gives it value as it is not subject to inflationary monetary policies which causes debasement in      value of other currencies. Bitcoin also has utility as a censorship-resistant form of money and method of payments allowing for peer-to-peer
+    transactions and cross-border transfers. Increasing adoption every year by individuals, businesses, and institutions as a form of        investment and payment method is driving to its value.
 
 ## Why should I care about Bitcoin?/ Why was Bitcoin invented?
     Bitcoin is sound money. It was created in the backdrop of the Global Financial Crisis of 2008 and in response to the
@@ -134,28 +127,11 @@
     on a device which never connects to the internet, ie, air-gapped. Some secure wallets with good reputation are - 
     Blue Wallet, Wasabi, ColdCard. 
 
-## What is a Non-Custodial Exchange?
-    A non-custodial exchange is a type of Bitcoin exchange that allows users to buy Bitcoin, without the need to trust a 
-    third-party with their funds. In a non-custodial exchange, users retain control of their private keys and have sole 
-    ownership of their Bitcoin purchased using the service. Non-custodial exchanges provide users with increased security,
-    privacy, verifiability and control over their funds compared to custodial exchanges.
-
-## What is a Non-KYC Exchange?
-    A Non-KYC (Know Your Customer) exchange is a type of exchange that allows users to buy Bitcoin without requiring them to
-    complete the KYC process which is a regulatory requirement that mandates exchanges to verify the identities of their 
-    customers to prevent illegal activities, money laundering and fraud. Non-KYC exchanges do not require users to provide
-    personal information, such as identification documents, offering more privacy. 
-
 ## Why Bitcoin-only?
     Bitcoin-only is the philosophy of realising Bitcoin's value. It is based on understanding that Bitcoin is the only 
-    cryptocurrency with absolute scarcity, verifiability, and decentralisation. Bitcoin has unique characteristics that makes
+    currency in the world with absolute scarcity, verifiability, and decentralisation. Bitcoin has unique characteristics that makes
     it sound money, outside of the control of any government, corporations, or group of individuals. It uses Proof-of-Work
     algorithm as its primary security feature to arrive at consensus and create an immutable ledger of secure transactions.
     Since Bitcoin's inceptions, there have been many charlatans coming up with competing altcoins in attempts
     to cheat the investors. 
 
-## Is the Non-Custodial Exchange responsible for the security of my Bitcoin?
-    As a user of a non-custodial exchange, you are responsible for the security of your Bitcoin. Non-custodial exchanges 
-    provide users with greater control over their funds, as users retain ownership of their private keys and have the ability
-    to directly manage their own wallets and make transactions without permission. However, this also means that the 
-    responsibility for securing your private keys and protecting your Bitcoin falls solely on the user.
